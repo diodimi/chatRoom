@@ -31,17 +31,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_sCrvSuVk6PX7Dl7Y6d-9" value="&lt;div&gt;dynamic_scheduler.py&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="165" y="180" width="115" height="30" as="geometry" />
+        <mxCell id="s_sCrvSuVk6PX7Dl7Y6d-9" value="arcflags.py" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="180" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s_sCrvSuVk6PX7Dl7Y6d-10" value="&lt;div&gt;jobs.py&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="140" width="35" height="30" as="geometry" />
+        <mxCell id="s_sCrvSuVk6PX7Dl7Y6d-10" value="&lt;div&gt;dijkstra.py&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="62.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s_sCrvSuVk6PX7Dl7Y6d-11" value="&lt;div&gt;main.py&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s_sCrvSuVk6PX7Dl7Y6d-12" value="&lt;div&gt;dromologisi&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="60" width="65" height="30" as="geometry" />
+        <mxCell id="s_sCrvSuVk6PX7Dl7Y6d-12" value="&lt;div&gt;monopati&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s_sCrvSuVk6PX7Dl7Y6d-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,9 +50,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="greedy_scheduler.py" link="greedy_scheduler.py" id="s_sCrvSuVk6PX7Dl7Y6d-18">
+        <UserObject label="graph.py" link="greedy_scheduler.py" id="s_sCrvSuVk6PX7Dl7Y6d-18">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="165" y="220" width="115" height="20" as="geometry" />
+            <mxGeometry x="165" y="220" width="55" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
